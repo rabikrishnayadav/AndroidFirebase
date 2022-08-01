@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207240343149",
+    "project_id": "androidfirebase-b2b89",
+    "storage_bucket": "androidfirebase-b2b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207240343149:android:45da3e5c5c3a49e6bed964",
+        "android_client_info": {
+          "package_name": "np.com.rabikrishnayadav.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207240343149-3b7fondhr8f4sesrdp2mscj6a70ngtoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDM3K5fV2IkUkW844-IZ-0JDm63vyfkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207240343149-3b7fondhr8f4sesrdp2mscj6a70ngtoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
